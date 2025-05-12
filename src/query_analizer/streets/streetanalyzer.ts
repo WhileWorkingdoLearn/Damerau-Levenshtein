@@ -1,0 +1,1 @@
+const Street = ["Rue" , "Route" , "Street" , " Road"]
